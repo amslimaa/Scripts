@@ -1,2 +1,15 @@
-matplotlib.pyplot
-Tk
+# feita implementação dos algoritimos solicitados (quicksort,mergesort, e shellsort) 
+# no arquivo sorts.py
+# para printar no console o nomes ordenados chamar a função imprimir no final de ed2.py 
+# passando parametro cem, mil o Dmil, pra 100, 1000 e 10000 mil nomes respectivamente.
+
+# importar as bibliotecas requeridas com os sequintes comandos!
+
+#!/bin/bash
+
+sudo pip install matplotlib
+sudo pip install numpy 
+
+
+#c aso o comando a cima nao funcione, tente adicionar o pip ao 
+# path (variaveis ambientes do sistema)
